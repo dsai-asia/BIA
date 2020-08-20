@@ -1,7 +1,7 @@
 # BIA: Business Intelligence and Analytics
-**Objective:** This course
+**Objective:** Business intelligence (BI) is a process of analyzing business data to obtain business insights and actionable intelligence and knowledge, in order to support better business decision making and capture new business opportunities. This course will give students an understanding of the principles and practices of business intelligence and data analytics to support organizations in conducting their business in a competitive environment.
 
-## Reference Books:
-- M. Kleppmann, Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O'Reilly, 2017, ISBN 978-1449373320
+## Books:
+- Business intelligence, analytics, and data science, by Ramesh Sharda; Dursun Delen; Efraim Turban, Pearson Publisher, 2018
 - More
 - 
