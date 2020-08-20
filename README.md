@@ -3,5 +3,5 @@
 
 ## Books:
 - Business intelligence, analytics, and data science, by Ramesh Sharda; Dursun Delen; Efraim Turban, Pearson Publisher, 2018
-- More
-- 
+- Business Analytics (2nd Ed.) by James Evans,  Pearson, 2017.
+- Fundamentals of Business Intelligence by Wilfried Grossmann and Stefanie Rinderle-Ma, Springer, 2015.
